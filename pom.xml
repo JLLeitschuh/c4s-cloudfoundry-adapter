@@ -8,7 +8,7 @@
         <jackson.version>1.8.6</jackson.version>
         <cxf.version>2.4.2</cxf.version>
         <eu.cloud4soa.api.version>0.0.3-SNAPSHOT</eu.cloud4soa.api.version>
-        <spring.security.oauth.version>1.0.0.RC1</spring.security.oauth.version>
+        <spring.security.oauth.version>2.0.18.RELEASE</spring.security.oauth.version>
         <netbeans.hint.deploy.server>Tomcat</netbeans.hint.deploy.server>
         <spring.framework.version>3.0.7.RELEASE</spring.framework.version>
     </properties>
